@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "237048380921",
+    "firebase_url": "https://ping-me-8a5b1.firebaseio.com",
+    "project_id": "ping-me-8a5b1",
+    "storage_bucket": "ping-me-8a5b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237048380921:android:a343c64d42d0c9e4885128",
+        "android_client_info": {
+          "package_name": "com.example.pingme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237048380921-af8lbm1qvpi89bpgho8gee6li6q8m9aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pingme",
+            "certificate_hash": "c6de2d722986351afa6819a4029fa9f9058f6e35"
+          }
+        },
+        {
+          "client_id": "237048380921-bfst8s0ef2v06t3uce5liddr973oi8d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZedMmKMtWeWvhDLyo9lKPtphnpxuRE_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237048380921-bfst8s0ef2v06t3uce5liddr973oi8d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
